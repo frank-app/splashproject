@@ -1,6 +1,6 @@
-# testproject
+# splashproject
 
-Project to test stuff
+A new Flutter project.
 
 ## Getting Started
 
